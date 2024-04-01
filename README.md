@@ -1,2 +1,2 @@
-# Work-And-Project-Portfolio
-Papers and projects from various courses and internships from both my undergrad in Computer Engineering (McGill 2028-22) and my Masters of Urban Planning (NYU 2022-24)..
+# Planning-School-Portfolio
+Papers and projects from various courses and internships from my Masters of Urban Planning at NYU from 2022-24.
